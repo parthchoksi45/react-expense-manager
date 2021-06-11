@@ -5,4 +5,6 @@ This is a basic expense-planner application created using react.It has several f
 2)Extract the files in a folder.<br>
 3)Navigate to that folder.<br>
 4)Open terminal in that folder and run "npm install" to download all the dependencies.<br>
-5)Then run "npm start" to run the web-app in your browser.<br>
+5)Then run "npm start" to run the web-app in your browser.<br><br>
+
+<img src="./image.png">
